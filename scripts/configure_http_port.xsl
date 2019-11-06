@@ -11,6 +11,6 @@
         <xsl:attribute name="port">
             <xsl:value-of select="'80'" />
         </xsl:attribute>
-    </xsl:template>
+    </xsl:template>. 
 
 </xsl:stylesheet>
